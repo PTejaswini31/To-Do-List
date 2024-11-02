@@ -18,7 +18,7 @@ Mentor: SRAVANI GOUNI
 ## Input Field: 
 Users can type in a new task, which serves as a placeholder for a new list item.
 ## Add Button: 
-Clicking the **"Add Task"** button triggers the addTask() JavaScript function to add a new task to the list.
+Clicking the **"To-DoList"** button triggers the addTask() JavaScript function to add a new task to the list.
 ## Task List: 
 An unordered list (ul) dynamically displays each task as a list item with delete functionality.
 ### CSS Styling
